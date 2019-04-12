@@ -1,0 +1,9 @@
+﻿  Game.cpp
+c:\users\i hate you\source\repos\gameengineering\diging_game\prog33921_engineframework\game.cpp(217): warning C4018: '<': signed/unsigned mismatch
+c:\users\i hate you\source\repos\gameengineering\diging_game\prog33921_engineframework\game.cpp(393): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\i hate you\source\repos\gameengineering\diging_game\prog33921_engineframework\game.cpp(400): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\i hate you\source\repos\gameengineering\diging_game\prog33921_engineframework\game.cpp(418): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Main.cpp
+  Sprites.cpp
+  Generating Code...
+  PROG33921_EngineFramework.vcxproj -> C:\Users\I Hate You\source\repos\GameEngineering\Diging_Game\Debug\PROG33921_EngineShooting.exe
